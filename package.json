@@ -6,6 +6,6 @@
   },
   "scripts": {
     "start": "reveal-md main.md -w",
-    "dist": "reveal-md main.md --static dist --port 1949"
+    "dist": "reveal-md main.md --static dist --port 1949 --absolute-url https://jsapi.dev/2019-08-front-conference-talk"
   }
 }
