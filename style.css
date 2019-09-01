@@ -1,0 +1,99 @@
+
+.reveal section img {
+  border-width: 0px;
+  box-shadow: none;
+}
+
+.overlay {
+  position: absolute;
+  width: 40%;
+  top: 250px;
+  right: 0;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2);
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #ffffff;
+  padding: 20px;
+  font-size: 20px;
+  text-align: left;
+}
+.overlay * {
+  color: #ffffff !important;
+}
+.overlay a {
+  font-size: 0.8em;
+}
+
+ul.overlay {
+  padding-left: 40px;
+}
+
+.reveal pre.city-sf-css {
+  width: 55%;
+  margin-left: 0px;
+}
+
+.reveal pre.map-css {
+  width: 50%;
+  margin-left: auto;
+  margin-right: -100px;
+}
+
+.reveal pre > code {
+  max-height: 450px;
+}
+
+.upper-left {
+  position: absolute;
+  width: 60%;
+  top: -80px;
+  left: 0px;
+}
+
+.lower-right {
+  position: absolute;
+  width: 60%;
+  right: 0px;
+  top: 160px;
+}
+
+
+.reveal section .logo {
+  max-height: 80px;
+  max-width: 130px;
+  position: absolute;
+}
+
+.reveal section .logo-threejs {
+  top: 120px;
+  left: 100px;
+}
+
+.reveal section .logo-babylonjs {
+  top: 120px;
+  left: 330px;
+}
+
+.reveal section .logo-cesium {
+  top: 240px;
+  left: 100px;
+}
+
+.reveal section .logo-mapbox {
+  top: 240px;
+  left: 300px;
+}
+
+.reveal section .logo-here {
+  top: 320px;
+  left: 120px;
+}
+
+.reveal section .logo-deckgl {
+  top: 320px;
+  left: 300px;
+}
+
+.reveal section .logo-esri {
+  top: 440px;
+  left: 190px;
+}
