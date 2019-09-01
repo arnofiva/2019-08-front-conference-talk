@@ -1,7 +1,0 @@
-{
-  "assetsDir": "assets",
-  "theme": "white",
-  "highlightTheme": "railscasts",
-  "css": "style.css",
-  "staticDirs": "images,mp4"
-}
