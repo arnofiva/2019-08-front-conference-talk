@@ -4,5 +4,6 @@
   "theme": "white",
   "highlightTheme": "railscasts",
   "css": "style.css",
+  "template": "template.html",
   "staticDirs": "images,mp4"
 }
