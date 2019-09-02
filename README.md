@@ -14,8 +14,7 @@ The presentation is built using [reveal-md](https://github.com/webpro/reveal-md)
 
 ```
 npm install
-
 npm run start
-
-# launches default browser and serves presentation at http://localhost:1948/main.md
 ```
+
+This will launch the default browser and serve the presentation at http://localhost:1948/main.md
